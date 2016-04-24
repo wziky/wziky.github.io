@@ -3,17 +3,18 @@
 <head>
   <meta charset="utf-8">
   
-  <title>归档: 2016/4 | WZIKY</title>
+  <title>阿斯顿 | WZIKY</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Hello, I&apos;m WZIKY. This is my blog on GitHub. 我挥舞的键盘和本子，发誓要把世界写个明白">
-<meta property="og:type" content="website">
-<meta property="og:title" content="WZIKY">
-<meta property="og:url" content="http://wziky.github.io/archives/2016/04/index.html">
+  <meta name="description" content="大叔大叔阿斯顿阿斯顿爱尚阿斯顿爱尚">
+<meta property="og:type" content="article">
+<meta property="og:title" content="阿斯顿">
+<meta property="og:url" content="http://wziky.github.io/2016/04/24/2">
 <meta property="og:site_name" content="WZIKY">
-<meta property="og:description" content="Hello, I&apos;m WZIKY. This is my blog on GitHub. 我挥舞的键盘和本子，发誓要把世界写个明白">
+<meta property="og:description" content="大叔大叔阿斯顿阿斯顿爱尚阿斯顿爱尚">
+<meta property="og:updated_time" content="2016-04-24T14:37:21.905Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="WZIKY">
-<meta name="twitter:description" content="Hello, I&apos;m WZIKY. This is my blog on GitHub. 我挥舞的键盘和本子，发誓要把世界写个明白">
+<meta name="twitter:title" content="阿斯顿">
+<meta name="twitter:description" content="大叔大叔阿斯顿阿斯顿爱尚阿斯顿爱尚">
   
     <link rel="alternate" href="/atom.xml" title="WZIKY" type="application/atom+xml">
   
@@ -66,58 +67,62 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2016" class="archive-year">2016</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2016/04/24/cineoirm90000bont82cyesxj" class="archive-article-date">
-  <time datetime="2016-04-24T13:23:04.630Z" itemprop="datePublished">4月 24</time>
+        <section id="main"><article id="post-1" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/04/24/2" class="article-date">
+  <time datetime="2016-04-23T16:00:00.000Z" itemprop="datePublished">2016-04-24</time>
 </a>
-      
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/android/">android</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2016/04/24/cineoirm90000bont82cyesxj">Hello World</a>
+    <h1 class="article-title" itemprop="name">
+      阿斯顿
     </h1>
   
 
-    </header>
-  </div>
-</article>
-  
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2016/04/24/2" class="archive-article-date">
-  <time datetime="2016-04-23T16:00:00.000Z" itemprop="datePublished">4月 24</time>
-</a>
+    <div class="article-entry" itemprop="articleBody">
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2016/04/24/2">阿斯顿</a>
-    </h1>
-  
+        <p>大叔大叔阿斯顿阿斯顿爱尚阿斯顿爱尚</p>
 
-    </header>
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://wziky.github.io/2016/04/24/2" data-id="cineoirmf0001bont5tq4puh7" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/开发/">开发</a></li></ul>
+
+    </footer>
   </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2016/04/24/cineoirm90000bont82cyesxj" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          Hello World
+        
+      </div>
+    </a>
+  
+  
+</nav>
+
+  
 </article>
-  
-  
-    </div></section>
-  
 
 </section>
         
